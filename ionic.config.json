@@ -1,0 +1,7 @@
+{
+  "name": "Ait_Support",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
